@@ -1,0 +1,9 @@
+{
+	"ip":"formula44vicksherbal.aternos.me",
+	"port": "19228",
+	"name": "BotManja",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
